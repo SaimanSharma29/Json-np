@@ -1,34 +1,34 @@
 {
-    "id": 1,
-    "title": "Nepali",
+    "id": 5,
+    "title": "PartyEnglish",
     "tracks": {
       "data": [
         {
           "id": 1,
-          "title": "Jati maya laye pani",
-          "preview": "https://www.dropbox.com/s/y3b5lacolkea4di/1974%20AD%20-%20Jati%20Maya%20Laye%20Pani%20%28AudioLyrics%29.mp3?raw=1",
-          "artist": "1974 AD",
-          "album": "https://www.dropbox.com/s/j55tizedpr45c52/ad.jpg?raw=1"
+          "title": "Shape of you",
+          "preview": "https://www.dropbox.com/s/y3b5lacolkea4di/Ed%20Sheeran%20-%20Shape%20Of%20You%%29.mp3?raw=1",
+          "artist": "English",
+          "album": "https://www.dropbox.com/s/j55tizedpr45c52/sheeran.jpg?raw=1"
 
         },
         {
           "id": 2,
-          "title": "Parelima",
-          "preview": "https://www.dropbox.com/s/wfxmws376gokcfy/1974%20AD%20-%20Parelima%20%28AudioLyrics%29.mp3?raw=1",
-          "artist": "1974 AD",
-          "album": "https://www.dropbox.com/s/j55tizedpr45c52/ad.jpg?raw=1"
+          "title": "Forever",
+          "preview": "https://www.dropbox.com/s/wfxmws376gokcfy/%20Forever%28AudioLyrics%29.mp3?raw=1",
+          "artist": "Chris Brown",
+          "album": "https://www.dropbox.com/s/j55tizedpr45c52/brown.jpg?raw=1"
 
         },
         {
           "id": 3,
-          "title": "Dalli",
-          "preview": "https://www.dropbox.com/s/fifscbr1uiisk6d/DALLI%20-%20Brijesh%20Shrestha%20X%20Beyond%20%28Official%20Music%20Video%29.mp3?raw=1",
+          "title": "Uptown Funk",
+          "preview": "https://www.dropbox.com/s/fifscbr1uiisk6d/LMFAO%20Uptown%20Funk%29.mp3?raw=1",
           "artist": "Brijesh Shrestha ft Beyond",
-          "album": "https://www.dropbox.com/s/s2pcd1ykfzht5h2/dalli.jpg?raw=1"
+          "album": "https://www.dropbox.com/s/s2pcd1ykfzht5h2/Uptown.jpg?raw=1"
         },
         {
           "id": 4,
-          "title": "Ajambari",
+          "title": "Party Rock Anthem",
           "preview": "https://www.dropbox.com/s/tsucthnbd0gljsp/New%20Nepali%20Movie%20-Gangster%20Blues%20Song%20%20Ajambari%20%20Kali%20Prasad%2C%20Melina%20Ft.%20Aashirman%2C%20Anna%281%29.mp3?raw=1",
           "artist": "Kali Prasad, Melina Rai",
           "album": "https://www.dropbox.com/s/4i1ss90lqqa1vx0/gangster.jpg?raw=1"
